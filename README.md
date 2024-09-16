@@ -1,7 +1,3 @@
-# Please visit GitHub page
-
-If you see this repository at GitHub, please visit the following [GitHub page](https://metavariable.github.io).
-
 [https://metavariable.github.io](https://metavariable.github.io)
 
 ----
